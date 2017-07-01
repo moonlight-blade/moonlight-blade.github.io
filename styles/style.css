@@ -21,16 +21,15 @@ h1 {
 .result_artist {
   background-color: rgb(172, 225, 249);
   margin-top: 1.5rem;
-  text-decoration: underline;
 }
 
 .result_title {
-  /*background-color: rgb(230,230,230);*/
   text-indent: 1rem;
 }
 
 .result_artist, .result_title {
   font-size: 1rem;
+  padding: .25rem;
 }
 
 #searchform {
