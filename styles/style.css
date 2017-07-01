@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 html {
-  border: .25rem solid rgb(80,80,80);
+  border: .25rem solid rgb(0,0,0);
 }
 
 body {
-  /*background-color: rgb(172, 225, 249);*/
+  background-color: rgb(230, 230, 230);
 	font: bold 10px/1.5 Helvetica, Arial, sans-serif;
 	letter-spacing: .1rem;
   margin: 2rem auto;
@@ -19,12 +19,13 @@ h1 {
 }
 
 .result_artist {
+  background-color: rgb(172, 225, 249);
   margin-top: 1.5rem;
   text-decoration: underline;
 }
 
 .result_title {
-  color: rgb(60,60,60);
+  /*background-color: rgb(230,230,230);*/
   text-indent: 1rem;
 }
 
