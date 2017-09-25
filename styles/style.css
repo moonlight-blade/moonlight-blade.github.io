@@ -8,6 +8,10 @@ html {
 input{ vertical-align:middle; }
 body {
   background-color: rgb(230, 230, 230);
+  background-attachment: fixed;
+  background-image: url(https://i.imgur.com/ydXnS8a.png);
+  background-repeat: no-repeat; 
+  background-position: right bottom; 
 	font: bold 10px/1.5 Helvetica, Arial, sans-serif;
 	letter-spacing: .1rem;
   margin: 2rem auto;
