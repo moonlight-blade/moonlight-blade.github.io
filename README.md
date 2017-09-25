@@ -1,5 +1,1 @@
-![Screenshot](/images/livesearch-thumb.jpg)
-# livesearch-example
-A simple example of live search using Ajax to query a JSON file containing blues artists/titles.
-
-HTML, CSS, JavaScript, jQuery, and Ajax.
+천애명월도 퀴즈 족보 -
