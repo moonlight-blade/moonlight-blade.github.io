@@ -28,6 +28,7 @@ h1 {
 
 .result_title {
   text-indent: 1rem;
+  background-color:#e6e6e6
 }
 
 .result_artist, .result_title {
