@@ -4,8 +4,6 @@
 html {
   border: .25rem solid rgb(0,0,0);
 }
-
-input{ vertical-align:middle; }
 body {
   background-color: rgb(230, 230, 230);
   background-attachment: fixed;
@@ -43,7 +41,7 @@ h1 {
   text-align: center;
 }
 
-#input type='text'{
+#searchterm{
 width:290px; height:51px;
 border:none;
 padding:15px;
