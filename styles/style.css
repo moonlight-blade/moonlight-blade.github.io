@@ -5,6 +5,7 @@ html {
   border: .25rem solid rgb(0,0,0);
 }
 
+input{ vertical-align:middle; }
 body {
   background-color: rgb(230, 230, 230);
 	font: bold 10px/1.5 Helvetica, Arial, sans-serif;
@@ -37,3 +38,11 @@ h1 {
   margin: 1rem auto;
   text-align: center;
 }
+
+#input_text{
+width:290px; height:51px;
+border:none;
+padding:15px;
+font-size:16px;
+color:#aaa;
+      }
